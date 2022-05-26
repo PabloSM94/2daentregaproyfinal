@@ -2,7 +2,7 @@ import fs from 'fs'
 
 export default {
     mongodb: {
-        cnxStr: 'mongodb+srv://pablosm94:coderhouse@clusterpm.2bebn.mongodb.net/ecommerce',
+        cnxStr: 'mongodb+srv://pablosm94:<password>@clusterpm.2bebn.mongodb.net/ecommerce',
         options: {
             useNewUrlParser: true,
             useUnifiedTopology: true,
